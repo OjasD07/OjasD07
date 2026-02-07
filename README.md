@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-# WORK IN PROGRESS
-```txt
-> contact.ojasdeshpande@gmail.com
-````
-<br>
-<a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a>
+<h1 align="center">WORK IN PROGRESS</h1>
+
+<p align="center">
+<kbd>contact.ojasdeshpande@gmail.com</kbd>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a> • 
 <a href="https://ojasdeshpande.vercel.app/">Portfolio</a>
-</div>
-```
+</p>
