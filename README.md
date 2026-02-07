@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 
 <!--Temporary README.md-->
-<h1 align="center">WORK IN PROGRESS!!</h1>
+<h1 align="center">WORK IN PROGRESS!</h1>
 
 <p align="center">
-<kbd>contact.ojasdeshpande@gmail.com</kbd>
+<a href="mailto:contact.ojasdeshpande@gmail.com"><strong>contact.ojasdeshpande@gmail.com</strong></a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a>
+&nbsp;•&nbsp;
 <a href="https://ojasdeshpande.vercel.app/">Portfolio</a>
 </p>
