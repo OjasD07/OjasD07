@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<!--Temporary README.md-->
+<!--this is a Temporary README.md-->
 <h1 align="center">WORK IN PROGRESS!</h1>
 
 <p align="center">
