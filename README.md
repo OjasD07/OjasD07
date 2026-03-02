@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h1 align="center">Temperoary :</h1>
+<h1 align="center">----------------------------------------</h1>
 
 
 <h1 align="center">Hi 👋, I'm Ojas Deshpande</h1>
