@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a>
 &nbsp;•&nbsp;
-<a href="https://ojasdeshpande.vercel.app/">Portfolio</a>
+<a href="https://www.ojasdeshpande.in/">Portfolio</a>
 </p>
 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojasd07" alt="ojasd07" /></a> </p>-->
 
-- 👨‍💻 All of my projects are available at [https://ojasdeshpande.vercel.app/](https://ojasdeshpande.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.ojasdeshpande.in/](https://www.ojasdeshpande.in/)
 
 - 📫 How to reach me **contact.ojasdeshpande@gmail.com**
 
