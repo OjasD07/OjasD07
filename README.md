@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <!--this is a Temporary README.md
 <h2 align="center">WORK IN PROGRESS!</h2>
 
@@ -28,10 +26,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ojasd07">LinkedIn</a>
 &nbsp;•&nbsp;
 <a href="https://www.ojasdeshpande.in/">Portfolio</a>
-</p>
+</p> -->
 
-
-<h1 align="center">------------------------------------------------------------</h1>-->
 
 
 # Hi 👋, I'm Ojas Deshpande
