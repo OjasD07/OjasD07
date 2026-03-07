@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 
-<!--this is a Temporary README.md
+<!--this is a Temporary README.md-->
 <h1 align="center">WORK IN PROGRESS!</h1>
 
-<p align="center">
+<!--<p align="center">
 <a href="mailto:contact.ojasdeshpande@gmail.com"><strong>contact.ojasdeshpande@gmail.com</strong></a>
 </p>
 
