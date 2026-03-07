@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-03-07T05:41:50.221Z",
+  "profile": {
+    "title": "Ojas Deshpande",
+    "subtitle": "",
+    "currentWork": "",
+    "currentLearn": "Programming languages & Frameworks",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "contact.ojasdeshpande@gmail.com",
+    "funFact": "",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://www.ojasdeshpande.in/",
+    "blog": "https://www.blogs.ojasdeshpande.in",
+    "resume": "https://www.linkedin.com/in/ojasd07"
+  },
+  "social": {
+    "github": "OjasD07",
+    "dev": "",
+    "linkedin": "ojasd07",
+    "codepen": "",
+    "stackoverflow": "32462682",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "ojasd07",
+    "instagram": "ojasd07_official",
+    "twitter": "ojasd07",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "ojasd07",
+    "codechef": "ojasd07",
+    "hackerrank": "",
+    "codeforces": "ojasd07",
+    "leetcode": "ojasd07",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "ojasd07",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "git",
+    "mysql",
+    "python"
+  ]
+}
