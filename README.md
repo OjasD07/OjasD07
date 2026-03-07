@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Ojas Deshpande
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OjasD07&label=Profile views&color=0e75b6&style=flat" alt="OjasD07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0e75b6&style=flat" alt="ojasd07" /> </p>
 
 - 🌱 I'm currently learning **Programming languages & Frameworks**
 
