@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/OjasD07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OjasD07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasd07" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/32462682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32462682" height="30" width="40" /></a>
-<!--<a href="https://fb.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ojasd07" height="30" width="40" /></a>
+<!--<a href="https://stackoverflow.com/users/32462682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32462682" height="30" width="40" /></a>
+<a href="https://fb.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ojasd07" height="30" width="40" /></a>
 <a href="https://instagram.com/ojasd07_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojasd07_official" height="30" width="40" /></a>
 <a href="https://twitter.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ojasd07" height="30" width="40" /></a>
-<a href="https://youtube.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ojasd07" height="30" width="40" /></a>-->
+<a href="https://youtube.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ojasd07" height="30" width="40" /></a>
 <a href="https://codechef.com/users/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="ojasd07" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ojasd07" height="30" width="40" /></a>
 <a href="https://leetcode.com/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojasd07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ojasd07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ojasd07" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
