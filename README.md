@@ -66,4 +66,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OjasD07&show_icons=true&locale=en" alt="OjasD07" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OjasD07&" alt="OjasD07" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OjasD07&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=OjasD07&theme=tokyonight" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night" />
