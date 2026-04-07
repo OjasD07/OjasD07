@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/](https://www.ojasdeshpande.in/)**
 
-<!--- 📝 I regularly write articles on **[https://www.blogs.ojasdeshpande.in](https://www.blogs.ojasdeshpande.in)**-->
+📝 I write articles on **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
 
 - 📄 Know about my experiences **[https://www.linkedin.com/in/ojasd07](https://www.linkedin.com/in/ojasd07)**
 
