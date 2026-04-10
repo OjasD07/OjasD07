@@ -66,9 +66,21 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OjasD07&show_icons=true&locale=en" alt="OjasD07" /></p>-->
 
-<p align="left">
-<!--<img src="https://github-readme-stats.vercel.app/api?username=OjasD07&show_icons=true&theme=tokyonight" /> -->
+<!--<<p align="left">
+img src="https://github-readme-stats.vercel.app/api?username=OjasD07&show_icons=true&theme=tokyonight" /> 
 <img src="https://streak-stats.demolab.com?user=OjasD07&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night" /> -->
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=OjasD07&theme=tokyonight&timezone=Asia/Kolkata&v=3"
+    alt="OjasD07 GitHub streak"
+  />
+</p>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night&v=3"
+  alt="OjasD07 activity graph"
+/>
