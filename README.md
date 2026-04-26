@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 
 - 📝 I write articles on **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/ojasd07](https://www.linkedin.com/in/ojasd07)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/OjasD07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OjasD07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ojasd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasd07" height="30" width="40" /></a>
+<a href="https://github.ojasdeshpande.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OjasD07" height="30" width="40" /></a>
+<a href="https://linkedin.ojasdeshpande.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasd07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
