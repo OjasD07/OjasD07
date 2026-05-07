@@ -19,30 +19,31 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0e75b6&style=flat" alt="ojasd07" /> </p>
 
 - 🌱 I'm currently learning **Programming languages & Frameworks**
-
 - 📫 How to reach me **contact.ojasdeshpande@gmail.com**
-
 - 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/](https://www.ojasdeshpande.in/)**
-
 - 📝 I write articles on **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.ojasdeshpande.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OjasD07" height="30" width="40" /></a>
-<a href="https://linkedin.ojasdeshpande.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasd07" height="30" width="40" /></a>
+<a href="https://github.ojasdeshpande.in" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OjasD07" height="30" width="40" /></a>
+<a href="https://linkedin.ojasdeshpande.in" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasd07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
 <p align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=OjasD07&theme=tokyonight&timezone=Asia/Kolkata&v=3"
-    alt="OjasD07 GitHub streak"
-  />
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> <span>&nbsp;</span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> <span>&nbsp;</span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
 </p>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night&v=3"
-  alt="OjasD07 activity graph"
-/>
+<h3 align="left">Statistics:</h3>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://streak-stats.demolab.com?user=OjasD07&theme=tokyonight&timezone=Asia/Kolkata&v=3" alt="OjasD07 GitHub streak" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&theme=tokyo-night&v=3" alt="OjasD07 activity graph" />
+    </td>
+  </tr>
+</table>
