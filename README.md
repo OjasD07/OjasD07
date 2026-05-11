@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **Programming languages & Frameworks**
 
-- 📫 How to reach me **contact.ojasdeshpande@gmail.com**
+- 📫 How to reach me **contact@ojasdeshpande.in**
 
 - 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/](https://www.ojasdeshpande.in/)**
 
