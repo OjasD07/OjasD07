@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<img src="./Logo.png" alt="Logo" style="float:right;width:88px;height:88px;background:#0ea5e9;border-radius:10px;padding:8px;margin:0 0 8px 8px;" />
+<a href="https://www.ojasdeshpande.in" target="_blank"><img src="./Logo.png" alt="Logo" style="float:right;width:88px;height:88px;background:#0ea5e9;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
 
 # Hi 👋, I'm Ojas Deshpande
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **contact@ojasdeshpande.in**
 
-- 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/](https://www.ojasdeshpande.in/)**
+- 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/projects](https://www.ojasdeshpande.in/projects)**
 
 - 📝 I write articles on **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
 
