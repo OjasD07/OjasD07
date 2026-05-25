@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0e75b6&style=flat" alt="ojasd07" /> </p>
 
-- 🌱 I'm currently learning **Programming languages & Frameworks**
+- 🌱 I'm currently learning: **Programming languages & Frameworks**
 
-- 📫 How to reach me **contact@ojasdeshpande.in**
+- 📫 How to reach me: **contact@ojasdeshpande.in**
 
-- 👨‍💻 All of my projects are available at **[https://www.ojasdeshpande.in/projects](https://www.ojasdeshpande.in/projects)**
+- 👨‍💻 All of my projects are available at: **[https://www.ojasdeshpande.in/projects](https://www.ojasdeshpande.in/projects)**
 
-- 📝 I write articles on **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
+- 📝 I write articles on: **[https://blogs.ojasdeshpande.in](https://blogs.ojasdeshpande.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
