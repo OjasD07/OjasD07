@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.ojasdeshpande.in" target="_blank"><img src="./Logo.svg" alt="Logo" style="float:right;width:88px;height:88px;background:#0ea5e9;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
 
-# Hi 👋, I'm Ojas Deshpande
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seoge+UI&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ojas+Deshpande)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0d1117&style=flat" alt="ojasd07" /> </p>
 
