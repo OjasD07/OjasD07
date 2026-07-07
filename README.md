@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seoge+UI&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ojas+Deshpande )](https://git.io/typing-svg)
 
+[![wakatime](https://wakatime.com/badge/user/94be6a13-5a6e-43b0-8d89-4419924e71af.svg)](https://wakatime.com/@94be6a13-5a6e-43b0-8d89-4419924e71af)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0d1117&style=flat" alt="ojasd07" /> </p>
 
 - 🌱 I'm currently learning: **Programming languages & Frameworks**
