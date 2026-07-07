@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https:/github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <td valign="top" style="padding-left: 20px;">
       <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
