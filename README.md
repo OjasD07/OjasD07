@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<a href="https://www.ojasdeshpande.in" target="_blank"><img src="./Logo.svg" alt="Logo" style="float:right;width:88px;height:88px;background:#fffff;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
+<a href="https://www.ojasdeshpande.in" target="_blank"><img src="./Logo.svg" alt="Logo" style="float;width:88px;height:88px;background:#fffff;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seoge+UI&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ojas+Deshpande )](https://git.io/typing-svg)
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-stats-extended.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <td valign="top" style="padding-left: 20px;">
       <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://github-stats-extended.ojasdeshpande.in/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
