@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.ojasdeshpande.in/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
