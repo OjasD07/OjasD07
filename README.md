@@ -38,17 +38,22 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  
+  <img src="https://github-stats-extended.ojasdeshpande.in/api/wakatime?username=OjasD07&theme=dark" alt="WakaTime Stats" />
+  
+  <table align="left">
+    <tr>
+      <td align="left" valign="top">
+        <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+      </td>
+      <td width="0"></td>
+      <td align="left" valign="top">
+        <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 
-<br/>
+  <img src="https://github-readme-activity-graph.ojasdeshpande.in/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
 
-<img src="https://github-readme-activity-graph.ojasdeshpande.in/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
+</div>
