@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-  <img src="https://github-stats-extended.ojasdeshpande.in/api/wakatime?username=OjasD07&theme=dark" alt="WakaTime Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=OjasD07&theme=dark" alt="WakaTime Stats" />
   
   <table align="left">
     <tr>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
       </td>
       <td width="0"></td>
       <td align="left" valign="top">
-        <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs(Public)" />
       </td>
     </tr>
   </table>
