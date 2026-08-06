@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/94be6a13-5a6e-43b0-8d89-4419924e71af.svg)](https://wakatime.com/@94be6a13-5a6e-43b0-8d89-4419924e71af)
 
-https://u8views.com/api/v1/github/profiles/210144652/views/day-week-month-total-count.svg
+[![Ojas Deshpande profile views](https://u8views.com/api/v1/github/profiles/210144652/views/day-week-month-total-count.svg)](https://u8views.com/github/OjasD07)-month-total-count.svg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0d1117&style=flat" alt="ojasd07" /> </p>
 
