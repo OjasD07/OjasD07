@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/94be6a13-5a6e-43b0-8d89-4419924e71af.svg)](https://wakatime.com/@94be6a13-5a6e-43b0-8d89-4419924e71af)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0d1117&style=flat" alt="ojasd07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasd07&label=Profile%20views&color=0d1117&style=flat" alt="OjasD07 Profile Views" /> </p>
 
 - 🌱 I'm currently learning: **Programming languages & Frameworks**
 
@@ -58,16 +58,16 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-  <img src="https://github-stats-extended.ojasdeshpande.in/api/wakatime?username=OjasD07&theme=dark" alt="WakaTime Stats" />
+  <img src="https://github-stats-extended.ojasdeshpande.in/api/wakatime?username=OjasD07&theme=dark" alt="OjasD07 WakaTime Stats" />
   
   <table align="left">
     <tr>
       <td align="left" valign="top">
-        <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt=" OjasD07 GitHub Streak Stats" />
       </td>
       <td width="0"></td>
       <td align="left" valign="top">
-        <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs(Public)" />
+        <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="OjasD07 Top Languages" />
       </td>
     </tr>
   </table>
