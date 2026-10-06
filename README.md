@@ -61,21 +61,23 @@ Here are some ideas to get you started:
   <table align="left">
     <tr>
       <td align="center" valign="center">
-        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=OjasD07&custom_title=OjasD07%27s%20WakaTime%20Stats&langs_count=6&theme=dark" />
+        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=OjasD07&custom_title=OjasD07%27s%20WakaTime%20Stats&langs_count=6&bg_color=0d1117&title_color=00ff66&text_color=ffffff&icon_color=00ff66&bar_color=00ff66&border_color=30363d" />
       </td>
       <td align="center" valign="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=OjasD07&custom_title=OjasD07%27s%20GitHub%20Stats%20Card&include_all_commits=true&theme=dark" />
+        <img src="https://github-stats-extended.vercel.app/api?username=OjasD07&custom_title=OjasD07%27s%20GitHub%20Stats%20Card&include_all_commits=true&bg_color=0d1117&title_color=00ff66&text_color=ffffff&icon_color=00ff66&border_color=30363d&rank_icon=github" />
       </td>
+    </tr>
     <tr>
       <td align="center" valign="center">
-        <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt=" OjasD07 GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&background=0d1117&border=30363d&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=ffffff&hide_border=false" alt="OjasD07 GitHub Streak Stats" />
       </td>
       <td align="center" valign="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OjasD07&layout=compact&langs_count=10&theme=dark" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OjasD07&layout=compact&langs_count=10&bg_color=0d1117&title_color=00ff66&text_color=ffffff&border_color=30363d" />
       </td>
     </tr>
   </table>
-
-  <img src="https://github-readme-activity-graph.ojasdeshpande.in/graph?username=OjasD07&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
+  
+  <img src="https://github-readme-activity-graph.ojasdeshpande.in/graph?username=OjasD07&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&area_color=00ff66&title_color=ffffff&hide_border=false" alt="OjasD07 activity graph" width="100%" />
 
 </div>
+
