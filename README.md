@@ -58,16 +58,20 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-  <img src="https://github-stats-extended.ojasdeshpande.in/api/wakatime?username=OjasD07&theme=dark" alt="OjasD07 WakaTime Stats" />
-  
   <table align="left">
     <tr>
-      <td align="left" valign="top">
+      <td align="center" valign="center">
+        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=OjasD07&custom_title=OjasD07%27s%20WakaTime%20Stats&langs_count=6&theme=dark" />
+      </td>
+      <td align="center" valign="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=OjasD07&custom_title=OjasD07%27s%20GitHub%20Stats%20Card&include_all_commits=true&theme=dark" />
+      </td>
+    <tr>
+      <td align="center" valign="center">
         <img src="https://github-readme-streak-stats.ojasdeshpande.in/?user=OjasD07&theme=dark&hide_border=false" alt=" OjasD07 GitHub Streak Stats" />
       </td>
-      <td width="0"></td>
-      <td align="left" valign="top">
-        <img src="https://github-stats-extended.ojasdeshpande.in/api/top-langs/?username=OjasD07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="OjasD07 Top Languages" />
+      <td align="center" valign="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OjasD07&layout=compact&langs_count=10&theme=dark" />
       </td>
     </tr>
   </table>
