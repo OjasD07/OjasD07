@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Part 1: Git vs. GitHub &amp; Workspace Foundations](https://www.blogs.ojasdeshpande.in/blogs/github-mastery-part-01-git-vs-github-workspace-foundations) (Oct 25, 2026)
+- [Part 2: Branching Strategies &amp; The Real-World GitHub Flow](https://www.blogs.ojasdeshpande.in/blogs/github-mastery-part-02-branching-strategies-real-world-github-flow) (Oct 25, 2026)
+- [Part 3: Mastering Pull Requests &amp; Code Reviews](https://www.blogs.ojasdeshpande.in/blogs/github-mastery-part-03-mastering-pull-requests-code-reviews) (Oct 25, 2026)
+- [Part 4: Issues, Milestones, and GitHub Projects](https://www.blogs.ojasdeshpande.in/blogs/github-mastery-part-04-issues-milestones-github-projects) (Oct 25, 2026)<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
