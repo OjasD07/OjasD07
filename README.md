@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.ojasdeshpande.in" target="_blank"><img src="./Logo.svg" alt="Logo" style="float;width:88px;height:88px;background:#fffff;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seoge+UI&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ojas+Deshpande )
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seoge+UI&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ojas+Deshpande!)
 
 [![wakatime](https://wakatime.com/badge/user/94be6a13-5a6e-43b0-8d89-4419924e71af.svg)](https://wakatime.com/@94be6a13-5a6e-43b0-8d89-4419924e71af)
 
@@ -40,46 +40,29 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.ojasdeshpande.in" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ojasd07" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ojasd07" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/ojasd07" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.shields.io/badge/-DEV-black?style=flat&logo=dev.to&logoColor=white" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/ojasd07" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://www.blogs.ojasdeshpande.in/feed.xml" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" />
-  </a>
+<a href="https://linkedin.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Ojas_D07" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/contact_ojasdesh1" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="36" height="36" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/ojasd07" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="36" height="36" alt="Dev.to" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/915609462740922448" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/OjasD076rss.xml" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/rss/FFA500" width="36" height="36" alt="RSS Feed" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Core Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
-  <!-- Web Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css/1572B6" width="36" height="36" alt="CSS3" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" /></a>
 </p>
 
+<br>
 
 <div align="left">
   
