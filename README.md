@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Ojas_D07" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/contact_ojasdesh1" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="36" height="36" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/ojasd07" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="36" height="36" alt="Dev.to" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/1324374262261354569" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hackerrank.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="36" height="36" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://devto.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="36" height="36" alt="Dev.to" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.ojasdeshpande.in" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blogs.ojasdeshpande.in/feed.xml" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/rss/FFA500" width="36" height="36" alt="RSS Feed" /></a>
 </p>
 
