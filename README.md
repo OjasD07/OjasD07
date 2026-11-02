@@ -62,6 +62,12 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" /></a>
 </p>
 
+###  Support My Open-Source Work
+
+If you find my open-source tools, repositories, or articles helpful, consider backing my work:
+
+[![Sponsor via Razorpay](https://img.shields.io/badge/Sponsor_via-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)](https://sponsor.ojasdeshpande.in/)
+
 <br>
 
 <div align="left">
